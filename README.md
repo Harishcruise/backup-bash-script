@@ -14,7 +14,7 @@ This Bash script is designed for performing both complete and incremental backup
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/backup-script.git
+   git clone https://github.com/Harishcruise/backup-script.git
 
 2. **Navigate to the Project Directory:**
 
